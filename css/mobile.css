@@ -24,6 +24,7 @@
     display: block;
     text-align: left;
     padding: 0;
+    border: none;
   }
 
   #content .time span {
@@ -32,6 +33,7 @@
 
   #content .time + p {
     padding-top: 0;
+    width: 100%;
   }
 
   #content .col-50 {
