@@ -15,27 +15,6 @@
     width: 100%;
   }
 
-  #content section .details {
-    flex-direction: column;
-  }
-
-  #content .time {
-    width: 100%;
-    display: block;
-    text-align: left;
-    padding: 0;
-    border: none;
-  }
-
-  #content .time span {
-    display: inline-block;
-  }
-
-  #content .time + p {
-    padding-top: 0;
-    width: 100%;
-  }
-
   #content .col-50 {
     width: 100%;
   }
